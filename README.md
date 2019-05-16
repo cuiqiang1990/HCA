@@ -1,4 +1,5 @@
 HCA
+
 Code for my Neurocomputing-2019. It is implemented by Python27 and Theano.
 
 A Hierarchical Contextual Attention-based Network for Sequential Recommendation
